@@ -1,3 +1,3 @@
 Privilege Esclation
 
-<img href="https://github.com/realkanavarora/privilege-esclation/blob/main/Images/Linux%20Privilege%20Escalation.png">
+<img src="https://github.com/realkanavarora/privilege-esclation/blob/main/Images/Linux%20Privilege%20Escalation.png">
