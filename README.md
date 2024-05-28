@@ -8,9 +8,9 @@
 
 ### Youtube Channels
 
-<a href="https://www.youtube.com/@_JohnHammond"> JOhn Hammond </a>
-<a href="https://www.youtube.com/@TCMSecurityAcademy"> The Cyber Mentor </a>
-<a href="https://www.youtube.com/@cyberzod1"> Cyber Zod </a>  --> CEHv12
+<a href="https://www.youtube.com/@_JohnHammond"> JOhn Hammond </a><br>
+<a href="https://www.youtube.com/@TCMSecurityAcademy"> The Cyber Mentor </a><br>
+<a href="https://www.youtube.com/@cyberzod1"> Cyber Zod </a>  --> CEHv12<br>
 <a href="https://www.youtube.com/@ChrisGreer"> Chris Geer </a>  --> Networking
 
 
