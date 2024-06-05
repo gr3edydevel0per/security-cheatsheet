@@ -16,5 +16,8 @@
 <a href="https://www.youtube.com/@ChrisGreer"> Chris Geer </a>  --> Networking
 
 
-
-
+https://www.youtube.com/@defronix
+https://www.youtube.com/@NahamSec
+https://www.youtube.com/@HackerSploit
+https://www.youtube.com/@LiveOverflow
+https://www.youtube.com/@ChrisGreer
